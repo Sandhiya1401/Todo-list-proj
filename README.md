@@ -4,9 +4,7 @@
 People often struggle to keep track of their daily tasks. They either forget important work or mix up completed and pending tasks. Without an organized system, productivity decreases and time is wasted.
 
 ## Solution
-A **simple and colorful To-Do List application** built using **HTML, CSS, and JavaScript**.  
-This project allows users to **add, delete, filter, and persist tasks** using
-'localStorage'.  
+A **simple and colorful To-Do List application** built using **HTML, CSS, and JavaScript**. This project allows users to **add,delete, filter, and persist tasks** using 'localStorage'.  
 
 ## Features
 - Add, delete, and clear tasks
@@ -23,16 +21,16 @@ This project allows users to **add, delete, filter, and persist tasks** using
 ## Demo
 You can see how the To-Do List works below:
 
-![App Demo](img/DEMO.mp4)
+[App Demo](img/DEMO.mp4)
 
 Or check out screenshots:
 
-![Screenshot 1](img/Screenshot%201.png)
-![Screenshot 2](img/Add%20task.png)
-![Screenshot 3](img/Completed%20task.png)
-![Screenshot 4](img/Pending%20task.png)
-![Screenshot 5](img/All%20task.png)
-![Screenshot 6](img/Clear%20task.png)
+[Screenshot 1](img/Screenshot%201.png)
+[Screenshot 2](img/Add%20task.png)
+[Screenshot 3](img/Completed%20task.png)
+[Screenshot 4](img/Pending%20task.png)
+[Screenshot 5](img/All%20task.png)
+[Screenshot 6](img/Clear%20task.png)
 
 ## Future Enhancements
 - Dark mode
