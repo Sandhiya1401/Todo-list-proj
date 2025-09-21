@@ -21,7 +21,9 @@ A **simple and colorful To-Do List application** built using **HTML, CSS, and Ja
 ## Demo
 You can see how the To-Do List works below:
 
-[App Demo](img/DEMO.mp4)
+[App Demo (Download and view)](img/DEMO.mp4)
+
+> **Hint:** Click the link above, then click "Download" or "View raw" to save the video. Open it on your device to watch the demo.
 
 Or check out screenshots:
 
