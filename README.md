@@ -20,19 +20,19 @@ A **simple and colorful To-Do List application** built using **HTML, CSS, and Ja
 
 ## Demo
 You can see how the To-Do List works below:
-[Live Demo](https://sandhiya1401.github.io/Todo-list-proj/)
-[App Demo (Download and view)](img/DEMO.mp4)
+![Live Demo](https://sandhiya1401.github.io/Todo-list-proj/)
+![App Demo (Download and view)](img/DEMO.mp4)
 
 > **Hint:** Click the link above, then click "Download" or "View raw" to save the video. Open it on your device to watch the demo.
 
 Or check out screenshots:
 
-[Screenshot 1](img/Screenshot%201.png)
-[Screenshot 2](img/Add%20task.png)
-[Screenshot 3](img/Completed%20task.png)
-[Screenshot 4](img/Pending%20task.png)
-[Screenshot 5](img/All%20task.png)
-[Screenshot 6](img/Clear%20task.png)
+![Screenshot 1](img/Screenshot%201.png)
+![Screenshot 2](img/Add%20task.png)
+![Screenshot 3](img/Completed%20task.png)
+![Screenshot 4](img/Pending%20task.png)
+![Screenshot 5](img/All%20task.png)
+![Screenshot 6](img/Clear%20task.png)
 
 ## Future Enhancements
 - Dark mode
